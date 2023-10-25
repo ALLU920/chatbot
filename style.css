@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+chatbot {
+    height: 450px;
+    width: 50px;
+    background-color: black;
+    padding-top: 50vh;
+
+}
